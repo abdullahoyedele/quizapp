@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="current_affairs">Current Affairs</string>
+    <string name="question1">1. Which country launched its first satelite called Mongol Sat-1?</string>
+    <string name="turkey">Turkey</string>
+    <string name="china">China</string>
+    <string name="mongolia">Mongolia</string>
+    <string name="tibet">Tibet</string>
+    <string name="question2">2. Which three countries signed an MoU for safe zones in Syria?</string>
+    <string name="russia">Russia</string>
+    <string name="iran">Iran</string>
+    <string name="nigeria">Nigeria</string>
+    <string name="turk">Turkey</string>
+    <string name="question3">3. What is the full meaning of WHO?</string>
+    <string name="question4">4. Which country has announced that it has carried out its first hydrogen bomb test?</string>
+    <string name="skorea">South Korea</string>
+    <string name="chi">China</string>
+    <string name="nkorea">North Korea</string>
+    <string name="japan">Japan</string>
+    <string name="question5">5. What is the full meaning of UN?</string>
+    <string name="submit">Submit</string>
+    <string name="reset">Reset</string>
+    <string name="java1">Question 1</string>
+    <string name="jav2">Question 2</string>
+    <string name="jav3">Question 3</string>
+    <string name="jav4">Question 4</string>
+    <string name="jav5">Question 5</string>
+    <string name="message1">Poor.\nYou missed the following:\n</string>
+    <string name="message2">Fair.\nYou missed the following:\n</string>
+    <string name="message3">Good.\nYou missed the following:\n</string>
+    <string name="message4">Great. \nYou missed the following:\n</string>
+    <string name="message5">Awesome. \nYou missed the following:\n</string>
+    <string name="message6">Excellent. \nYou scored all correct\n</string>
+    <string name="toast1">You scored </string>
+    <string name="toast2">/5 answers right.\n</string>
+</resources>
